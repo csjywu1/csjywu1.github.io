@@ -17,44 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am 吴家扬 (Jiayang Wu), a computer science researcher. I focus on research in artificial intelligence, machine learning, and computer vision.
+Hello! I am 吴家扬 (Jiayang Wu), a computer science researcher. I focus on research in artificial intelligence, machine learning, and bioinformatics.
 
-My research interests include deep learning, natural language processing, and computer vision. I am committed to developing innovative algorithms and models to solve complex real-world problems.
+My research interests include deep learning, graph neural networks, protein structure prediction, and bioinformatics method development. I am committed to developing innovative algorithms and models to solve complex real-world problems.
 
 Currently, I am actively conducting academic research and look forward to collaborating with peers from academia and industry.
 
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 Successfully created personal academic homepage to showcase my research work
-- *2025.01*: &nbsp;🚀 Focusing on research in artificial intelligence and machine learning 
+- *2025.01*: &nbsp;🚀 Focusing on research in bioinformatics and graph neural networks
+- *2025.01*: &nbsp;📚 Paper accepted at ICLR Workshop 2025: "Towards More Accurate Full-Atom Antibody Co-Design"
+- *2025.05 - 2025.08*: &nbsp;🔬 Research Visit at Westlake University
+- *2024.10 - 2025.05*: &nbsp;🌍 Research Visit at University of Macau 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Conference 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop 2025</div><img src='images/framework.png' alt="Igformer Framework" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on Deep Learning-based Image Recognition Methods](https://example.com)
+[Towards More Accurate Full-Atom Antibody Co-Design](https://arxiv.org/pdf/2502.19391)
 
-**吴家扬 (Jiayang Wu)**, Collaborator A, Collaborator B
+**Jiayang Wu, Xingyi Zhang, Xiangyu Dong, Kun Xie, Ziqi Liu, Wensheng Gan, Sibo
 
-[**Project**](https://github.com) <strong><span class='show_paper_citations' data=''></span></strong>
-- This paper proposes a new deep learning architecture that achieves excellent results on multiple benchmark datasets
+[**Paper**](https://arxiv.org/pdf/2502.19391) <strong><span class='show_paper_citations' data=''></span></strong>
+- This paper proposes an end-to-end collaborative design framework Igformer for antibody-antigen modeling, focusing on dynamic interaction graph construction and geometric equivariant graph neural network optimization
 </div>
 </div>
 
-- [Applications of Machine Learning in Natural Language Processing](https://github.com), Collaborator A, Collaborator B, **AI Journal 2024**
+- [Graph Neural Network-based Protein Structure Prediction](https://example.com), Collaborator A, Collaborator B, **Bioinformatics Conference 2024**
+- [Graph Anomaly Detection using Neural Networks](https://github.com), Collaborator A, Collaborator B, **AI Journal 2024**
 
 # 🎖 Honors and Awards
-- *2024.06* Outstanding Graduate Award
-- *2023.12* Academic Scholarship Recipient 
+
 
 # 📖 Educations
-- *2020.09 - 2024.06*, Bachelor's Degree in Computer Science and Technology, Renowned University
-- *2024.09 - Present*, Master's Student in Computer Science, focusing on Artificial Intelligence Research 
+- *2025.05 - 2025.08*, Research Visit at Westlake University, focused on bioinformatics research
+- *2024.10 - 2025.05*, Research Visit at University of Macau
+- *2023.09 - 2026.06*, Master's Student, Jinan University 
 
 # 💬 Invited Talks
-- *2024.12*, Shared my research findings at academic symposium
-- *2024.09*, Participated in academic exchange activities in machine learning
+
 
 # 💻 Internships
-- *2024.06 - 2024.08*, Internship at a technology company, participated in AI project development
