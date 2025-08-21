@@ -33,7 +33,7 @@ Hello! I am 吴家扬 (Jiayang Wu), a master student.  My research interests inc
 
 [Towards More Accurate Full-Atom Antibody Co-Design](https://arxiv.org/pdf/2502.19391)
 
-**吴家扬 (Jiayang Wu)**, Xingyi Zhang, Xiangyu Dong, Kun Xie, Ziqi Liu, Wensheng Gan, Sibo
+**Jiayang Wu (吴家扬)**, Xingyi Zhang, Xiangyu Dong, Kun Xie, Ziqi Liu, Wensheng Gan, Sibo
 
 [**Paper**](https://arxiv.org/pdf/2502.19391) <strong><span class='show_paper_citations' data=''></span></strong>
 - This paper proposes an end-to-end collaborative design framework Igformer for antibody-antigen modeling, focusing on dynamic interaction graph construction and geometric equivariant graph neural network optimization
