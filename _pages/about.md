@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am 吴家扬 (Jiayang Wu), at Jinan University.  My research interests include graph representation learning, computational biology, and bioinformatics method development. I am supervised by Professor Yefeng Zheng at Westlake University. I am committed to developing innovative algorithms and models to solve complex real-world problems in natural sciences.
+Hello! I am 吴家扬 (Jiayang Wu), master student at Jinan University.  My research interests include graph representation learning, computational biology, and bioinformatics method development. I am supervised by Professor Yefeng Zheng at Westlake University. I am committed to developing innovative algorithms and models to solve complex real-world problems in natural sciences.
 
 
 # 🔥 News
@@ -41,18 +41,17 @@ Hello! I am 吴家扬 (Jiayang Wu), at Jinan University.  My research interests 
 </div>
 
 
-# 🎖 Honors and Awards
-<!-- Commented out as requested -->
-
-
 # 📖 Educations
 - *2025.05 - 2025.08*, Research Intern at Westlake University
 - *2024.10 - 2025.05*, Research Intern at University of Macau
 - *2023.09 - 2026.06*, Master's Student, Jinan University 
 
+<!-- 
+# 🎖 Honors and Awards
+
+
 # 💬 Invited Talks
-<!-- Commented out as requested -->
 
 
 # 💻 Internships
-<!-- Commented out as requested -->
+-->
