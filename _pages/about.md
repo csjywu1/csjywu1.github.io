@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am 吴家扬 (Jiayang Wu), a master student.  My research interests include graph representation learning, computational biology, and bioinformatics method development. I am supervised by Professor Yefeng Zheng at Westlake University. I am committed to developing innovative algorithms and models to solve complex real-world problems in natural sciences.
+Hello! I am 吴家扬 (Jiayang Wu), at Jinan University.  My research interests include graph representation learning, computational biology, and bioinformatics method development. I am supervised by Professor Yefeng Zheng at Westlake University. I am committed to developing innovative algorithms and models to solve complex real-world problems in natural sciences.
 
 
 # 🔥 News
@@ -33,7 +33,7 @@ Hello! I am 吴家扬 (Jiayang Wu), a master student.  My research interests inc
 
 [Towards More Accurate Full-Atom Antibody Co-Design](https://arxiv.org/pdf/2502.19391)
 
-**Jiayang Wu (吴家扬)**, Xingyi Zhang, Xiangyu Dong, Kun Xie, Ziqi Liu, Wensheng Gan, Sibo
+**Jiayang Wu**, Xingyi Zhang, Xiangyu Dong, Kun Xie, Ziqi Liu, Wensheng Gan, Sibo Wang, Le Song
 
 [**Paper**](https://arxiv.org/pdf/2502.19391) <strong><span class='show_paper_citations' data=''></span></strong>
 - This paper proposes an end-to-end collaborative design framework Igformer for antibody-antigen modeling, focusing on dynamic interaction graph construction and geometric equivariant graph neural network optimization

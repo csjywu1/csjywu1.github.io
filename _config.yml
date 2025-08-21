@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiayang Wu's Personal Homepage"
-description              : "Jiayang Wu's Academic Personal Homepage - Welcome to learn about my research work and academic achievements"
+description              : "Welcome to learn about my research work and academic achievements"
 repository               : "csjywu1/csjywu1.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiayang Wu (吴家扬)"
+  name             : "Jiayang Wu<br>(吴家扬)"
   avatar           : "images/myself.jpeg"
   bio              : "Master Student"
   location         : "China"
