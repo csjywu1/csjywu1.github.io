@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am 吴家扬 (Jiayang Wu), master student at Jinan University. My research focuses on graph representation learning, computational biology, and the development of bioinformatics methods. I'm currently supervised by Professor Yefeng Zheng at Westlake University. My goal is to develop innovative algorithms and models to solve complex, real-world problems in the natural sciences.
+Hello! I am 吴家扬 (Jiayang Wu), master student at Jinan University. My research focuses on graph representation learning, computational biology, and the development of bioinformatics methods. I'm currently supervised by Professor Yefeng Zheng at Westlake University. My goal is to develop innovative algorithms and models to solve complex, real-world problems in the natural sciences. I also serve as a reviewer for prestigious international journals including Transactions on Dependable and Secure Computing and Transactions on Computational Social Systems.
 
 
 
