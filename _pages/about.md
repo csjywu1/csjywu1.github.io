@@ -23,9 +23,10 @@ Hello! I am 吴家扬 (Jiayang Wu), master student at Jinan University. My resea
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 Successfully created personal academic homepage to showcase my research work
-- *2025.01*: &nbsp;📚 Paper accepted at ICLR Workshop 2025: "Towards More Accurate Full-Atom Antibody Co-Design"
+- *2025.08*: &nbsp;🎉🎉 Successfully created personal academic homepage to showcase my research work
+- *2025.05 - 2025.08*: &nbsp;🔬 Research Intern at Tencent
 - *2025.05 - 2025.08*: &nbsp;🔬 Research Intern at Westlake University
+- *2025.03*: &nbsp;📚 Paper accepted at ICLR Workshop 2025: "Towards More Accurate Full-Atom Antibody Co-Design"
 - *2024.10 - 2025.05*: &nbsp;🌍 Research Intern at University of Macau 
 
 # 📝 Publications 
